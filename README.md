@@ -1,4 +1,4 @@
-<img width="532" height="421" alt="sistem_giris" src="https://github.com/user-attachments/assets/371cbeb1-d9b6-46c4-ab76-b0f9ffe2a762" />
+<img width="1918" height="1017" alt="sistem_giris" src="https://github.com/user-attachments/assets/371cbeb1-d9b6-46c4-ab76-b0f9ffe2a762" />
 <img width="1918" height="1017" alt="patron_kasa" src="https://github.com/user-attachments/assets/065e2580-543a-4ed6-bcf7-97e8cc651edc" />
 <img width="1918" height="1018" alt="patron_gider_ödeme" src="https://github.com/user-attachments/assets/abed91a7-d5f3-48f8-8189-b0048f2b8b1a" />
 <img width="1918" height="1017" alt="filo_özeti" src="https://github.com/user-attachments/assets/a7854026-a749-4cc5-a46d-cfbafdbc3a33" />
