@@ -1,9 +1,4 @@
-<img width="1918" height="1017" alt="sistem_giris" src="https://github.com/user-attachments/assets/371cbeb1-d9b6-46c4-ab76-b0f9ffe2a762" />
-<img width="1918" height="1017" alt="patron_kasa" src="https://github.com/user-attachments/assets/065e2580-543a-4ed6-bcf7-97e8cc651edc" />
-<img width="1918" height="1018" alt="patron_gider_ödeme" src="https://github.com/user-attachments/assets/abed91a7-d5f3-48f8-8189-b0048f2b8b1a" />
-<img width="1918" height="1017" alt="filo_özeti" src="https://github.com/user-attachments/assets/a7854026-a749-4cc5-a46d-cfbafdbc3a33" />
-<img width="1918" height="1017" alt="araç_kiralama" src="https://github.com/user-attachments/assets/155cfcd1-76b8-4d47-ae15-77a4b5abd995" />
-<img width="1915" height="1017" alt="admin_sistem_yedekleme" src="https://github.com/user-attachments/assets/4446c3c4-ac43-411c-b404-53c534d99b76" />
+
 # 🚗 Anadolu Lojistik - Araç Kiralama ve Filo Yönetim Sistemi
 
 Bu proje, araç kiralama şirketlerinin tüm operasyonel, finansal ve personel yönetim süreçlerini dijitalleştirmek amacıyla geliştirilmiş kapsamlı bir **Masaüstü (Desktop) Otomasyon Yazılımıdır**. Nesne Yönelimli Programlama (OOP) prensipleriyle tasarlanmış olup, kurumsal seviyede iş kuralları (Business Logic) ve güvenlik önlemleri barındırır.
@@ -43,5 +38,36 @@ Admin panelinde bulunan gelişmiş yedekleme motoru, `Thread` yapısı kullanara
 ## ⚙️ Kurulum ve Çalıştırma
 
 1. Bu depoyu bilgisayarınıza klonlayın:
-```bash
-   git clone [https://github.com/Salih438/RentACar-Yonetim-Sistemi.git](https://github.com/Salih438/RentACar-Yonetim-Sistemi.git)
+`git clone https://github.com/Salih438/RentACar-Yonetim-Sistemi.git`
+
+2. Projeyi tercih ettiğiniz bir Java IDE'si ile (IntelliJ IDEA, Eclipse, NetBeans) açın.
+
+3. Projenin bağımlılıkları arasına (Libraries) `sqlite-jdbc` sürücüsünü (driver) eklediğinizden emin olun.
+
+4. `src/Main.java` dosyasını çalıştırın.
+
+5. Sistem ilk kez çalıştırıldığında gerekli veritabanı tablolarını (`salih.db`) otomatik olarak oluşturacaktır.
+
+## 📸 Ekran Görüntüleri
+1. Sisteme Giriş Ekranı
+<img width="1918" height="1017" alt="sistem_giris" src="https://github.com/user-attachments/assets/67e51d4e-333b-4115-b2d3-83055bb0eeb1" />
+
+2. Patron Ekranı - Kasa ve Kar/Zarar Takibi
+<img width="1918" height="1017" alt="patron_kasa" src="https://github.com/user-attachments/assets/504a164a-de33-4331-b5cb-cff4798378d3" />
+
+3. Patron Ekranı - Şirket Giderleri ve Vergi Ödemesi
+<img width="1918" height="1018" alt="patron_gider_ödeme" src="https://github.com/user-attachments/assets/4462434a-1b47-41fc-818c-9289965cc060" />
+
+4. Yönetici Ekranı - Operasyon ve Filo Özeti
+<img width="1918" height="1017" alt="filo_özeti" src="https://github.com/user-attachments/assets/25098d12-d0ee-4023-9152-576911d3a12a" />
+
+5. Personel Ekranı - Araç Kiralama ve Yönetim
+<img width="1918" height="1017" alt="araç_kiralama" src="https://github.com/user-attachments/assets/aa7e1268-f005-4800-83f6-415220abb74d" />
+
+6. Admin Ekranı - Gelişmiş Veritabanı Yedekleme
+<img width="1915" height="1017" alt="admin_sistem_yedekleme" src="https://github.com/user-attachments/assets/2f2ad26f-45e9-4a0e-aab4-d454d807dd9a" />
+
+Geliştirici: Salih Balta
+
+Eğitim: Gümüşhane Üniversitesi - Yazılım Mühendisliği
+
